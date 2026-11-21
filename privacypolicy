@@ -1,0 +1,163 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Transposio – Privacy Policy</title>
+<style>
+  :root { --text:#1c1b1f; --muted:#5f5b66; --bg:#ffffff; --accent:#6750a4; --line:#e6e0ec; }
+  @media (prefers-color-scheme: dark) {
+    :root { --text:#e6e1e5; --muted:#b4adbb; --bg:#1c1b1f; --accent:#d0bcff; --line:#3a3540; }
+  }
+  body { margin:0; background:var(--bg); color:var(--text);
+         font:16px/1.6 system-ui, -apple-system, "Segoe UI", Roboto, sans-serif; }
+  main { max-width:720px; margin:0 auto; padding:32px 16px 64px; }
+  h1 { font-size:28px; margin:0 0 4px; }
+  h2 { font-size:19px; margin:28px 0 8px; color:var(--accent); }
+  p, li { margin:8px 0; }
+  .muted { color:var(--muted); font-size:14px; }
+  a { color:var(--accent); }
+  hr { border:0; border-top:1px solid var(--line); margin:48px 0; }
+  nav a { margin-right:16px; }
+</style>
+</head>
+<body>
+<main>
+<nav class="muted"><a href="#en">English</a><a href="#el">Ελληνικά</a></nav>
+
+<section id="en" lang="en">
+<h1>Transposio – Privacy Policy</h1>
+<p class="muted">Developer: kgSoftwares · App ID: com.kgSoftwares.transposio · Last updated: 21 November 2026</p>
+
+<p>Transposio changes the musical key of audio playing on your Android device. This policy
+explains what data the app handles and why.</p>
+
+<h2>Audio</h2>
+<p>When you press Start, Transposio uses Android's audio-capture feature (shown by Android as
+"screen sharing") to receive the sound that other apps are playing. The sound is
+pitch-shifted in your device's memory and played back immediately. It is <strong>never
+recorded, saved, or sent anywhere</strong>. Nothing on your screen is captured, and the
+microphone is never used.</p>
+
+<h2>Permissions</h2>
+<ul>
+  <li><strong>Record audio / screen sharing:</strong> Android requires these for an app to receive
+      other apps' sound. Used only while transposing is switched on.</li>
+  <li><strong>Notifications:</strong> show the running notification with key and Stop controls.</li>
+  <li><strong>Internet:</strong> used only to send anonymous usage statistics, and only if you allow
+      them (see below).</li>
+</ul>
+
+<h2>Usage statistics (only with your consent)</h2>
+<p>On first launch Transposio asks whether you allow anonymous usage statistics. Nothing is
+collected unless you tap <strong>Allow</strong>. You can turn it off at any time with the switch at
+the bottom of the app; turning it off also resets the analytics identifier.</p>
+<p>If you allow it, Transposio uses <strong>Google Analytics for Firebase</strong> to understand how the
+app is used and to fix problems. It collects:</p>
+<ul>
+  <li>App events: when transposing starts and stops, how long it ran, the semitones and cents
+      used, whether sound was received, the detected musical key, and error messages.</li>
+  <li>Standard device information: device model, Android version, app version, language, and
+      approximate country (derived from the IP address, which is not stored).</li>
+  <li>A random app-instance identifier.</li>
+</ul>
+<p>Transposio does <strong>not</strong> collect the advertising ID, your name, email, contacts, location,
+files, or any audio, and does not use data for advertising.</p>
+
+<h2>Who the data is shared with</h2>
+<p>Usage statistics are processed by <strong>Google</strong> (Firebase / Google Analytics) as a service
+provider on our behalf, under the
+<a href="https://policies.google.com/privacy">Google Privacy Policy</a> and
+<a href="https://firebase.google.com/support/privacy">Firebase privacy terms</a>.
+The data is not sold and not shared with anyone else.</p>
+
+<h2>Retention and deletion</h2>
+<p>Event-level analytics data is kept for 2 months and then deleted automatically. Turning off
+the switch in the app stops collection and resets the identifier. To ask for deletion of data
+already collected, contact us at the address below.</p>
+
+<h2>Security</h2>
+<p>Data sent to Google Analytics is encrypted in transit (HTTPS).</p>
+
+<h2>Children</h2>
+<p>Transposio is not directed at children under 13 and does not knowingly collect their data.</p>
+
+<h2>Volume</h2>
+<p>While running, Transposio sets the media volume to 0 and plays the transposed sound on the
+alarm volume, so that you hear only one song. Your previous volumes are restored when you press
+Stop.</p>
+
+<h2>Changes</h2>
+<p>If this policy changes, the new version will be published on this page with a new date.</p>
+
+<h2>Contact</h2>
+<p>Questions or deletion requests: <a href="mailto:kgezerlissoftware@gmail.com">kgezerlissoftware@gmail.com</a></p>
+</section>
+
+<hr>
+
+<section id="el" lang="el">
+<h1>Transposio – Πολιτική Απορρήτου</h1>
+<p class="muted">Προγραμματιστής: kgSoftwares · App ID: com.kgSoftwares.transposio · Τελευταία ενημέρωση: 21 Νοεμβρίου 2026</p>
+
+<p>Το Transposio αλλάζει τον τόνο του ήχου που παίζει στη συσκευή Android σας. Αυτή η πολιτική
+εξηγεί ποια δεδομένα χειρίζεται η εφαρμογή και γιατί.</p>
+
+<h2>Ήχος</h2>
+<p>Όταν πατάτε Έναρξη, το Transposio χρησιμοποιεί τη λειτουργία καταγραφής ήχου του Android
+(εμφανίζεται ως «κοινή χρήση οθόνης») για να λάβει τον ήχο που παίζουν άλλες εφαρμογές. Ο ήχος
+μεταφέρεται σε άλλο τόνο στη μνήμη της συσκευής και αναπαράγεται αμέσως. <strong>Δεν ηχογραφείται,
+δεν αποθηκεύεται και δεν αποστέλλεται πουθενά.</strong> Τίποτα από την οθόνη δεν καταγράφεται και το
+μικρόφωνο δεν χρησιμοποιείται ποτέ.</p>
+
+<h2>Άδειες</h2>
+<ul>
+  <li><strong>Εγγραφή ήχου / κοινή χρήση οθόνης:</strong> απαιτούνται από το Android για να λάβει μια
+      εφαρμογή τον ήχο άλλων εφαρμογών. Χρησιμοποιούνται μόνο όσο είναι ενεργή η μεταφορά τόνου.</li>
+  <li><strong>Ειδοποιήσεις:</strong> εμφανίζουν την ειδοποίηση με τον τόνο και το κουμπί Διακοπή.</li>
+  <li><strong>Διαδίκτυο:</strong> μόνο για αποστολή ανώνυμων στατιστικών χρήσης, και μόνο αν το επιτρέψετε.</li>
+</ul>
+
+<h2>Στατιστικά χρήσης (μόνο με τη συγκατάθεσή σας)</h2>
+<p>Στην πρώτη εκκίνηση το Transposio ρωτά αν επιτρέπετε ανώνυμα στατιστικά χρήσης. Δεν συλλέγεται
+τίποτα αν δεν πατήσετε <strong>Αποδοχή</strong>. Μπορείτε να τα απενεργοποιήσετε οποιαδήποτε στιγμή από τον
+διακόπτη στο κάτω μέρος της εφαρμογής· η απενεργοποίηση μηδενίζει και το αναγνωριστικό.</p>
+<p>Αν το επιτρέψετε, το Transposio χρησιμοποιεί το <strong>Google Analytics for Firebase</strong> για να
+καταλάβει πώς χρησιμοποιείται η εφαρμογή και να διορθώνει προβλήματα. Συλλέγει:</p>
+<ul>
+  <li>Συμβάντα εφαρμογής: έναρξη και διακοπή, διάρκεια, ημιτόνια και cents, αν λήφθηκε ήχος,
+      τον τόνο που αναγνωρίστηκε και μηνύματα σφαλμάτων.</li>
+  <li>Βασικά στοιχεία συσκευής: μοντέλο, έκδοση Android, έκδοση εφαρμογής, γλώσσα και κατά
+      προσέγγιση χώρα (από τη διεύθυνση IP, η οποία δεν αποθηκεύεται).</li>
+  <li>Ένα τυχαίο αναγνωριστικό εγκατάστασης.</li>
+</ul>
+<p>Το Transposio <strong>δεν</strong> συλλέγει το διαφημιστικό αναγνωριστικό, όνομα, email, επαφές,
+τοποθεσία, αρχεία ή ήχο, και δεν χρησιμοποιεί δεδομένα για διαφημίσεις.</p>
+
+<h2>Με ποιους κοινοποιούνται</h2>
+<p>Τα στατιστικά επεξεργάζεται η <strong>Google</strong> (Firebase / Google Analytics) ως πάροχος
+υπηρεσιών για λογαριασμό μας, σύμφωνα με την
+<a href="https://policies.google.com/privacy?hl=el">Πολιτική Απορρήτου της Google</a>.
+Τα δεδομένα δεν πωλούνται και δεν κοινοποιούνται σε κανέναν άλλο.</p>
+
+<h2>Διατήρηση και διαγραφή</h2>
+<p>Τα αναλυτικά δεδομένα συμβάντων διατηρούνται 2 μήνες και μετά διαγράφονται αυτόματα. Για
+διαγραφή δεδομένων που έχουν ήδη συλλεχθεί, επικοινωνήστε μαζί μας.</p>
+
+<h2>Ασφάλεια</h2>
+<p>Τα δεδομένα αποστέλλονται κρυπτογραφημένα (HTTPS).</p>
+
+<h2>Παιδιά</h2>
+<p>Το Transposio δεν απευθύνεται σε παιδιά κάτω των 13 ετών.</p>
+
+<h2>Ένταση ήχου</h2>
+<p>Όσο λειτουργεί, το Transposio μηδενίζει την ένταση πολυμέσων και παίζει τον μεταφερμένο ήχο
+στην ένταση ξυπνητηριού, ώστε να ακούτε μόνο ένα τραγούδι. Οι προηγούμενες εντάσεις
+επανέρχονται όταν πατήσετε Διακοπή.</p>
+
+<h2>Επικοινωνία</h2>
+<p>Ερωτήσεις ή αιτήματα διαγραφής: <a href="mailto:kgezerlissoftware@gmail.com">kgezerlissoftware@gmail.com</a></p>
+</section>
+</main>
+</body>
+</html>
